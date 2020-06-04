@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Courier New';
+  src:  url('../fonts/CourierNew.woff2') format('woff2'),
+        url('../fonts/CourierNew.woff') format('woff');
+}

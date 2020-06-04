@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.woclyl",
+      "sha256_cert_fingerprints": ["C7:AE:89:7F:90:7F:11:11:97:D9:EA:1A:63:93:96:97:45:D8:65:7A:DE:22:F6:A7:AA:1F:2B:4A:2E:05:E8:79"]
+    }
+  }
+]
